@@ -1,0 +1,67 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+div.row {
+    padding-top: 5px;
+}
+
+div.arch-search {
+    padding: 3px;
+}
+
+div.arch-box {
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+
+div.searh-box {
+
+}
+
+div.search-item {
+    margin: 3px;
+    padding: 20px;
+    width: 24%;
+    height: 300px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+div.file-name {
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+div.search-result-items {
+    padding-top: 5px;
+}
+
+div.save-result {
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding-top: 3px;
+}
+
+.pagination a {
+    cursor: pointer;
+}
+
+.img-wrap {
+    position: relative;
+}
+
+    .img-wrap .close {
+        position: absolute;
+        top: 2px;
+        right: 3px;
+        z-index: 100;
+    }

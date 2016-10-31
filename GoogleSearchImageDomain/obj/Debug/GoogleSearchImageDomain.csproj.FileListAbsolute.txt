@@ -1,0 +1,11 @@
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\GoogleSearchImageDomain.dll.config
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\GoogleSearchImageDomain.dll
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\GoogleSearchImageDomain.pdb
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\EntityFramework.dll
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\EntityFramework.xml
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\obj\Debug\GoogleSearchImageDomain.dll
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\obj\Debug\GoogleSearchImageDomain.pdb
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\log4net.dll
+C:\Projects\GoogleSearchImageTest\GoogleSearchImageDomain\bin\Debug\log4net.xml
